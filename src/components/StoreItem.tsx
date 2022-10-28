@@ -25,6 +25,7 @@ export default function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
         src={imgUrl}
         height="200px"
         style={{ objectFit: "cover" }}
+        alt={name}
       />
       <Card.Body className="d-flex flex-column">
         <Card.Title className="d-flex justify-content-between align-items-baseline mb-4">
