@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/images/book.jpg"
+    "name": "iPhone",
+    "price": 999.99,
+    "imgUrl": "/images/iphone.jpg"
   },
   {
     "id": 2,
@@ -13,14 +13,26 @@
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/images/banana.jpg"
+    "name": "Airpods",
+    "price": 105.05,
+    "imgUrl": "/images/air-pods.jpg"
   },
   {
     "id": 4,
     "name": "Car",
     "price": 14000,
     "imgUrl": "/images/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Orange",
+    "price": 8.99,
+    "imgUrl": "/images/orange.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/images/book.jpg"
   }
 ]
